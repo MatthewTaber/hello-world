@@ -7,7 +7,7 @@ A start to finally getting stuck in.
 
 ## I like messing with tech
 **And learning how thing work.**
-'I like to work with muy hand and strain my brian.'
+'I like to work with my hands and strain my brian.'
 ***LOL***
 
 ### This a quick little story.
