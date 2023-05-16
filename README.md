@@ -12,13 +12,14 @@ A start to finally getting stuck in.
 
 ### This a quick little story.
 >***About me learning git and python***[^1]
-[^1]: **This** *is* ^m^~e~ >messing 
+[^1]: Well don't know how I got down here lol.
 ```
 {
-  with
-  ^Mark^~down~
+  Try out some new things.
+  
 }
 ``` 
+**This** *is* ^m^~e~ ***messing*** with ^Mark^~down~
 
 Horizontal Rule 	---
 'Some good resources'
